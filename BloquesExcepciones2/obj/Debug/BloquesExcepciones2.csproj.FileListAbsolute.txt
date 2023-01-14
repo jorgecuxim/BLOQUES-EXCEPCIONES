@@ -1,0 +1,8 @@
+C:\Users\jorge\source\repos\BloquesExcepciones2\BloquesExcepciones2\bin\Debug\BloquesExcepciones2.exe.config
+C:\Users\jorge\source\repos\BloquesExcepciones2\BloquesExcepciones2\bin\Debug\BloquesExcepciones2.exe
+C:\Users\jorge\source\repos\BloquesExcepciones2\BloquesExcepciones2\bin\Debug\BloquesExcepciones2.pdb
+C:\Users\jorge\source\repos\BloquesExcepciones2\BloquesExcepciones2\obj\Debug\BloquesExcepciones2.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\BloquesExcepciones2\BloquesExcepciones2\obj\Debug\BloquesExcepciones2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\source\repos\BloquesExcepciones2\BloquesExcepciones2\obj\Debug\BloquesExcepciones2.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\BloquesExcepciones2\BloquesExcepciones2\obj\Debug\BloquesExcepciones2.exe
+C:\Users\jorge\source\repos\BloquesExcepciones2\BloquesExcepciones2\obj\Debug\BloquesExcepciones2.pdb
